@@ -11,4 +11,4 @@ This is a sample application to demonstrate how to use Azure Communication Servi
 
 ## Run the sample
 
-check out the [server app README](../server/README.md) and [client app README](../client/README.md) for more details.
+check out the [server app README](./server/README.md) and [client app README](./client/README.md) for more details.
