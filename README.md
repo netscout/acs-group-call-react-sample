@@ -2,6 +2,8 @@
 
 This is a sample application to demonstrate how to use Azure Communication Service to build a group call application.
 
+![screenshot](./screenshot.png)
+
 ## Tech stack
 
 - [Node.js](https://nodejs.org/en/download/) version 18 or higher
